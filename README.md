@@ -6,9 +6,10 @@ Some Rocket Maker Weird Thing
 > -Muhammad Naufal Afif, 11/01/2025
 
 ## What Even Is This?
+
 SomRMWT is a rocket designer built completely in Excel, designed for hobby rocketry, academic purposes as teaching tool, or conceptual rocket designs. Started when Muhammad Naufal Afif was bored on his sixth year studying aerospace engineering, it provides "good enough" data as baseline for future rocket designs. Currently, it consists of only a rocket initial sizing tool. Contributions from those with expertise or interest in rocketry are highly encouraged to enhance its capabilities.
 
-Main references: 
+## Main references: 
 
 `[UwU]` Rocket Propulsion Elements, Seventh Edition - George P. Sutton and Oscar Billarz
 
