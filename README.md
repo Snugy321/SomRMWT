@@ -24,7 +24,6 @@ Follow the stated instruction for each spreadsheet.
 ## Features to be Added
 
 ### Must Haves Before Entering Beta Stage (Essential Components): 
-```
      ~~1. Data Input~~ **(DONE!)**
      ~~2. Initial Sizing~~ **(DONE!)**
      3. Rocket Geometry Drawer (a la Taufiq Mulyanto's AISAT)
@@ -34,10 +33,8 @@ Follow the stated instruction for each spreadsheet.
            b. Liquid Propellant
      6. Mission Planner Using RocketPy
      7. de Laval Nozzle Maker"
-```
 
 ### Must Haves Before Entering Full Release (Optional Components): 
-```
      1. Benchmarking Against Competitors
      2. Payload Maker
      3. Engine Performance (complete with thrust chart maker)
@@ -46,6 +43,5 @@ Follow the stated instruction for each spreadsheet.
      5. Cost Analysis
      6. Further breakdown as standalone Python/Rust program
      7. Aerodynamic Analysis
-```
 
 ## CO-AUTHORS! PLEASE FILL IN LOG AFTER EDITING! UNLESS MAKING A NEW VERSION, UNLISTED CHANGES ARE NOT RECOGNISED AND WILL BE RECTIFIED!!!
