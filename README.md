@@ -1,5 +1,5 @@
 # SomRMWT
-Some Rocket Maker Weird Thing
+## Some Rocket Maker Weird Thing
 
 > _"Yes, this is real. Yes, I'm bored. No, I do have a life."_
 > 
@@ -23,24 +23,29 @@ Follow the stated instruction for each spreadsheet.
 
 ## Features to be Added
 
-Must Haves Before Entering Beta Stage (Essential Components): 
+### Must Haves Before Entering Beta Stage (Essential Components): 
+```
+     ~~1. Data Input~~ **(DONE!)**
+     ~~2. Initial Sizing~~ **(DONE!)**
+     3. Rocket Geometry Drawer (a la Taufiq Mulyanto's AISAT)
+     4. Weight Analysis
+     5. Engine Performance (complete with thrust chart maker)
+           a. Solid Propellant 
+           b. Liquid Propellant
+     6. Mission Planner Using RocketPy
+     7. de Laval Nozzle Maker"
+```
 
-     1. Weight Analysis
-     2. Engine Performance (complete with thrust chart maker)
-          a. Solid Propellant 
-          b. Liquid Propellant
-     3. Mission Planner Using Designed Rocket's Parameters
-     4. de Laval Nozzle Maker
-     5. Benchmarking Against Similar Rocket
-     6. Aerodynamic Analysis
-
-Must Haves Before Entering Full Release (Optional Components): 
-
-     1. Rocket Geometry Drawer (a la Taufiq Mulyanto's AISAT)
+### Must Haves Before Entering Full Release (Optional Components): 
+```
+     1. Benchmarking Against Competitors
      2. Payload Maker
      3. Engine Performance (complete with thrust chart maker)
           a. Hybrid Propellant 
      4. Trajectory Visualiser (integrated to Mission Planner)
      5. Cost Analysis
-     
+     6. Further breakdown as standalone Python/Rust program
+     7. Aerodynamic Analysis
+```
+
 ## CO-AUTHORS! PLEASE FILL IN LOG AFTER EDITING! UNLESS MAKING A NEW VERSION, UNLISTED CHANGES ARE NOT RECOGNISED AND WILL BE RECTIFIED!!!
